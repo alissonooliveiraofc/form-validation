@@ -1,8 +1,10 @@
 # 📋 Formulário de Cadastro com Validação em Vanilla JS
 
-[![Projeto no Ar](https://img.shields.io/badge/🚀_Acessar_Projeto_no_Ar-00DBDE?style=for-the-badge&logoColor=white)](https://alissonooliveiraofc.github.io/form-validation)
+<a href="https://alissonooliveiraofc.github.io/form-validation" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🚀_Acessar_Projeto_no_Ar-00DBDE?style=for-the-badge&logoColor=white" alt="Projeto no Ar" />
+</a>
 
-> 🔗 **Link do Projeto:** [alissonooliveiraofc.github.io/form-validation](https://alissonooliveiraofc.github.io/form-validation)
+> 🔗 **Link do Projeto:** <a href="https://alissonooliveiraofc.github.io/form-validation" target="_blank" rel="noopener noreferrer">alissonooliveiraofc.github.io/form-validation</a>
 
 ---
 
